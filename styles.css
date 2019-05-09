@@ -1,0 +1,44 @@
+body {
+	background: url(images/desktop.jpg);
+
+}
+h1 {
+	font-family: 'poppins', cursive;
+	background: #0313f5;
+	padding: 20px;
+	font-size: 60px;
+	color: white;
+	display: inline-block;
+}
+h2 {
+	font-family: 'pt-serif', cursive;
+	text-align: right;
+	font-weight: 300;
+	text-transform: lowercase;
+	padding-right: 40px;
+}
+header {
+	border-bottom: 10px solid black;
+}
+header p {
+	padding-left: 40px;
+}
+main {
+	padding: 40px;
+}
+
+img {
+	float: right;
+	padding: 20px;
+	border: 1px solid black;
+	margin: 20px;
+	margin-right: -100px;
+}
+img.center-image {
+	float: none;
+	margin-right: 0;
+}
+
+}
+
+
